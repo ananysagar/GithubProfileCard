@@ -1,0 +1,74 @@
+.container {
+    height: 350px;
+    margin:25px  25px;
+    background-color: blanchedalmond;
+    border-radius: 25px;
+    float: left;
+    width: 20%;
+    padding: 0 4px;
+  }
+  
+  .avatar-img {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    padding: 25px 70px;
+    margin-bottom: 0;
+  }
+  
+  .login-name {
+    margin-top: 0;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  
+  .quotes-section {
+    text-align: center;
+  }
+  
+  .user-metrics {
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .metric {
+    padding:5px 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    font-size: 15px;
+    font-weight: 500;
+    
+  }
+  
+  .metrics-count {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .total-count {
+    margin-left: 35px;
+    margin-right: 35px;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  
+  .github-btn {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+    background: #fff;
+    border: none;
+    border-radius: 15px;
+    padding: 8px 10px;
+    margin-top: 15px;
+    text-decoration: none;
+    color: black;
+    width: 70px;
+  }
+  
+  
