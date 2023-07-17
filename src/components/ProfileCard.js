@@ -22,9 +22,9 @@ function ProfileCard(props) {
                   </div>
               </div>
               <div className='user-metrics'>
-                  <span className='metric'>Followers</span>
-                  <span className='metric'>Following</span>
-                  <span className='metric'>Repos</span>
+                <span className='metric'>Followers</span>
+                <span className='metric'>Following</span>
+                <span className='metric'>Repos</span>
               </div>
               <div className='metrics-count'>
                 <span className='total-count'>{users.followers_url.length}</span>

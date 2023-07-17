@@ -1,0 +1,16 @@
+.search-container {
+    text-align: center;
+    height: 200px;
+}
+.search-heading {
+    margin-bottom: 50px;
+}
+
+.search-text {
+    height: 50px;
+    width: 600px;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
